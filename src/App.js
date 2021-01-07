@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <h1>
-        ReactvApp
+        React App
       </h1>
     </div>
   );
