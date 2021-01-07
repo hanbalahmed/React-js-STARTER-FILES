@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <h1>
-        SLACK CLONE <span>🚀🔴🔥🐱‍👤</span>
+        ReactvApp
       </h1>
     </div>
   );
